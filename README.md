@@ -1,0 +1,6 @@
+First repo! This is an old project I made that I wanted to add as my first repo on GitHub. Not sure if I did this the right way... 
+Regardless, this is a four in a row game coded in WinForm .net Framework, with a few option to play (player v player, bot v player, and bot v bot (: ).
+The bot is "half smart"; if the bot can win, he will, and if he can prevent the opponent from winning he will do so. The rest of bot's moves are almost "random."
+It's very possible and quite easy to make the bot a little smarter... 
+thank you, 
+Eran
